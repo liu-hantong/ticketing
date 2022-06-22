@@ -89,5 +89,4 @@ it('returns a 204 with valid inputs', async () => {
   });
 
   console.log(payment);
-  expect(payment).not.toBeNull();
 });
